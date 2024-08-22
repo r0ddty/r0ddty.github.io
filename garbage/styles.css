@@ -17,9 +17,9 @@ body {
 
   .button {
     background-color: rgb(48, 48, 48);
-    color: #ffffff;
+    color: powderblue;
     cursor: pointer;
-    padding: 10px;
+    padding: 8px;
     width: 100%;
     border: none;
     text-align: left;
